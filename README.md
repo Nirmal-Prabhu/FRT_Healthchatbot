@@ -1,7 +1,7 @@
 # PostAid Care Chatbot - Deployment
 
 
-• This repository consists of files required to deploy a ___Web App___ created with ___Flask___ on ___Microsoft___ Azure.# Post Dental Care Chatbot
+• This repository consists of files required to deploy a ___Web App___ created with ___Flask___ on ___Microsoft___ Azure.# Post Operative Care Chatbot
 
 A prominent problem that is seldom addressed is the post-operative care and maintenance that patients require, especially in fields like Dental Implantology, 
 where routine checks are essential. Patients have to travel long distances to the dental clinics to get their implants checked, which can be very inconvenient. 
